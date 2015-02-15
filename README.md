@@ -1,6 +1,10 @@
 ##  ANSI TO UNICODE
 Convert ansi buffer to character(ucs2 encodings), or convert character to ansi encodings in NodeJs.
 
+ * Faster than [iconv-lite](https://github.com/ashtuchkin/iconv-lite).
+ * Don't depend other module.
+ * The volume is so small.
+ 
 ## Usage
 ### Decode API
 ```javascript
