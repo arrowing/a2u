@@ -4,7 +4,9 @@ Convert ansi buffer to character(ucs2 encodings), or convert character to ansi e
  * Faster than [iconv-lite](https://github.com/ashtuchkin/iconv-lite).
  * Don't depend other module.
  * The volume is so small.
- 
+
+[![NPM Stats](https://nodei.co/npm/a2u.png?downloads=true)](https://npmjs.org/packages/a2u/) 
+
 ## Usage
 ### Decode API
 ```javascript
