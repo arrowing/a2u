@@ -8,7 +8,7 @@ Convert ansi buffer to character(ucs2 encodings), or convert character to ansi e
 [![NPM Stats](https://nodei.co/npm/a2u.png?downloads=true)](https://npmjs.org/packages/a2u/) 
 
 ##  Install
-npm install a2u
+> **npm install a2u**
 
 ## Usage
 ### Decode API
